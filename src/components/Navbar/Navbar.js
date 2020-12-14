@@ -4,7 +4,7 @@ import './style.css';
 function Navbar() {
     return(
     <div className="Navbar">
-        Pokemon API
+        Pokedex V 0.1
     </div>
     )
     
